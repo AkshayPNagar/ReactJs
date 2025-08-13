@@ -1,13 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import As1UsingFunctional from './Components/As1UsingFunctional'
-import Welcome from './Components/Welcome';
-import Hello from './Components/Hello';
-import HelloMessage from './Components/HelloMessage';
-import PropsUsingClass from './Components/PropsUsingClass';
-import Constructor from './Components/Constructor';
-import StateEx from './Components/StateEx';
-import Service from './Components/Service';
+import As1UsingFunctional from './Components/As1UsingFunctional';
 import Assignment1 from './Components/Assignment1';
 function App() {
   return (
