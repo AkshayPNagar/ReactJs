@@ -1,5 +1,4 @@
 import React from 'react';
-import As1UsingFunctional from './As1UsingFunctional';
 
 class Assignment1 extends React.Component {
   constructor() {
